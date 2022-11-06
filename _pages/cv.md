@@ -11,55 +11,63 @@ redirect_from:
 
 Education
 ======
-* Sc.B. in Engineering Physics, Brown University, 2019
+* Sc.B. with honors in Engineering Physics, Brown University, 2019
 * MPhil with distinction in Advanced Computer Science, University of Cambridge, 2020
 * Ph.D in Computer Science, University of Cambridge, 2024 (expected)
 
 Work experience
 ======
 * Summer 2022: Research Scholar
-  * Johns Hopkins University, Human Language Technology Center of Excellence 
-  * Duties included: Tagging issues
-  * Supervisor: Tom Lippincott
+  * Johns Hopkins University, Human Language Technology Center of Excellence
+  * Project Title: Unsupervised Low-Resource Authorship Style Transfer with Large Language Models
+  * Supervisor: [Tom Lippincott](http://www.logical-space.org/)
 
 * Fall 2019-Fall 2020: Fulbright Research Scholar
   * Institute of Science and Technology, Austria
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+  * Project Title: Alignment of Coordinate-Targeted Superresolution Microscopes with Deep Learning
+  * Supervisor: Wiebke Jahr
 
 * Summer 2019: Research Scholar
   * Johns Hopkins University, Human Language Technology Center of Excellence
-  *
-  * Supervisor: Frank 
+  * Supervisor: [Frank Ferraro](https://www.csee.umbc.edu/people/faculty/frank-ferraro/)
 
 * Summer 2018: APS/IBM Women in Physics Research Intern
   * IBM Research Yorktown Heights
   * Project title: Computational design of metasurface holograms for 3D displays.
-  * Supervisor: Abram Frank
+  * Supervisor: [Abram Falk](https://researcher.watson.ibm.com/researcher/view.php?person=us-alfalk)
 
 * Summer 2017: APS/IBM Women in Physics Research Intern
   * IBM Research Almaden
-  * Project title: 
-  * Duties included: Molecular Beam Epitaxy 
-  * Supervisor: 
+  * Project title: Nanofabrication of superconducting nitride films on silicon for neuromorphic computing.
+  * Supervisor: [Akash Pushp](https://researcher.watson.ibm.com/researcher/view.php?person=us-apushp)
 
 * Summer 2016: Leadership Alliance Research Fellow
   * Yale University, Center for Research on Interface Structure and Phenomena
-  * Project title: multiferroic tunnel barriers for spintronic transistors
-  * Supervisor: Fred Walker
+  * Project title: Multiferroic Tunnel Barriers for Spintronic Transistors.
+  * Supervisor: [Fred Walker](https://crisp.yale.edu/people/frederick-walker)
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Python
+* ML Frameworks
+  * Tensorflow
+  * PyTorch
+  * Sklearn
+* Languages
+  * English (native)
+  * French (C1)
+  * German (B1)
+  * Ancient Greek
+  * Ancient Hebrew
 
 Awards
 ======
-
+* (2020) Woolf Institute Cambridge PhD Scholarship
+* (2020) Cambridge Trust Premium PhD Studentship
+* (2019) Fulbright-Austrian Marshall Plan Award for Research in Science and Technology
+* (2017) American Physical Society/IBM Women in Physics Scholarship
+* (2016) Diversity Programs in Engineering, Freshman of the Year
+* (2015) National Merit Scholarship (USA)
 
 Publications
 ======
