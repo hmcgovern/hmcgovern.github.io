@@ -11,21 +11,42 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Sc.B. in Engineering Physics, Brown University, 2019
+* MPhil with distinction in Advanced Computer Science, University of Cambridge, 2020
+* Ph.D in Computer Science, University of Cambridge, 2024 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
+* Summer 2022: Research Scholar
+  * Johns Hopkins University, Human Language Technology Center of Excellence 
   * Duties included: Tagging issues
-  * Supervisor: Professor Git
+  * Supervisor: Tom Lippincott
 
-* Fall 2015: Research Assistant
-  * Github University
+* Fall 2019-Fall 2020: Fulbright Research Scholar
+  * Institute of Science and Technology, Austria
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
+
+* Summer 2019: Research Scholar
+  * Johns Hopkins University, Human Language Technology Center of Excellence
+  *
+  * Supervisor: Frank 
+
+* Summer 2018: APS/IBM Women in Physics Research Intern
+  * IBM Research Yorktown Heights
+  * Project title: Computational design of metasurface holograms for 3D displays.
+  * Supervisor: Abram Frank
+
+* Summer 2017: APS/IBM Women in Physics Research Intern
+  * IBM Research Almaden
+  * Project title: 
+  * Duties included: Molecular Beam Epitaxy 
+  * Supervisor: 
+
+* Summer 2016: Leadership Alliance Research Fellow
+  * Yale University, Center for Research on Interface Structure and Phenomena
+  * Project title: multiferroic tunnel barriers for spintronic transistors
+  * Supervisor: Fred Walker
   
 Skills
 ======
@@ -35,6 +56,10 @@ Skills
   * Sub-skill 2.2
   * Sub-skill 2.3
 * Skill 3
+
+Awards
+======
+
 
 Publications
 ======
