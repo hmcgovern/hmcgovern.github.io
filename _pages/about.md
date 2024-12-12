@@ -14,13 +14,13 @@ My research interests lie in story understanding, natural language generation, a
 
 I was recently an intern at Grammarly, working with [Dimi](https://scholar.google.gr/citations?user=8ZsPobcAAAAJ&hl=en) and [Yoshi](https://yoshi-suhara.com/), and a Research Scholar at the Summer Camp for Applied Language Exploration (SCALE) at the Johns Hopkins [Human Language Technology Center of Excellence](https://hltcoe.jhu.edu/). 
 
-## Recent News
 <div class="news-widget">
       <h2>Latest News</h2>
       <ul>
           {% for post in site.posts limit:3 %}
               <li>
                   <a href="{{ post.url }}">{{ post.title }}</a>
+                  <small>{{post.content}}</small>
                   <small>{{ post.date | date: "%B %d, %Y" }}</small>
               </li>
           {% endfor %}
