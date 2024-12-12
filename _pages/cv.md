@@ -9,6 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
+
+! Information on this page may not be up-to-date. You can see my current CV [here](https://www.canva.com/design/DAGXlIu9WP4/9ZzHRbzJ6fWK5foUnz7URg/view?utm_content=DAGXlIu9WP4&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h07703e10f1).
+
 Education
 ======
 * Sc.B. with honors in Engineering Physics, Brown University, 2019

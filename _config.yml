@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter hope_mcgovern
+  username               : #&twitter hope_mcgovern
 facebook:
   username               :
   app_id                 :
@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Hope McGovern"
   avatar           : "research_profile.jpg"
-  bio              : "NLP for story understanding"
+  bio              : "NLP for narrative understanding"
   location         : "Cambridge, UK"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : #"http://yourfullgooglescholarurl.com"
+  googlescholar    : https://scholar.google.co.uk/citations?user=JyFmDn8AAAAJ&hl=en&authuser=1
   email            : hem52@cam.ac.uk
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "hope_mcgovern"
+  twitter          : #"hope_mcgovern"
   vine             :
   weibo            :
   xing             :
