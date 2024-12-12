@@ -19,7 +19,7 @@ I was recently an intern at Grammarly, working with [Dimi](https://scholar.googl
     <ul>
         {% for post in site.posts limit:10 %}
             <li>
-                <strong>{{ post.title }}</strong>: "{{ post.excerpt | markdownify }}" | {{ post.date | date: "%B %d, %Y" }}, {{ post.location }}
+                <strong>{{ post.title }}</strong>: "{{ post.excerpt | markdownify }}" | <small>{{ post.date | date: "%B %d, %Y" }}</small>
             </li>
         {% endfor %}
     </ul>
