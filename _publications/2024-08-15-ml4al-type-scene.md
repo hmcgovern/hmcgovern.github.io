@@ -8,7 +8,7 @@ Our models can surface relevant instances in the top-10 ranked candidates in man
 Through manual error analysis and discussion, we address the limitations and challenges inherent in our approach. 
 Our findings contribute to the field of Biblical scholarship by offering a new perspective on narrative analysis within ancient texts, and to computational modeling of narrative with a genre-agnostic approach for pattern-finding in long, literary texts.'
 date: 2024-08-15
-venue: '1st Annual Workshop on Machine Learning for Ancient Languages'
+venue: 'Proceedings of the 1st Workshop on Machine Learning for Ancient Languages'
 paperurl: 'https://aclanthology.org/2024.ml4al-1.26/'
 #citation: 'Jahr, Wiebke. McGovern, Hope. Danzl, Johann Georg (2020). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
 ---
