@@ -14,7 +14,7 @@ My research focus is understanding how narratives communicate meaning through re
 
 I am looking for a full-time industry position in London after I finish my PhD in the Spring of 2025! You can see my full [CV](https://www.canva.com/design/DAGXlIu9WP4/9ZzHRbzJ6fWK5foUnz7URg/view?utm_content=DAGXlIu9WP4&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h07703e10f1) here.
 
-During my PhD, I've been an intern at Grammarly, working with [Dimi](https://scholar.google.gr/citations?user=8ZsPobcAAAAJ&hl=en) and [Yoshi](https://yoshi-suhara.com/) on LLM-generated text detection with stylometrics, and a Research Scholar at the Summer Camp for Applied Language Exploration (SCALE) at the Johns Hopkins [Human Language Technology Center of Excellence](https://hltcoe.jhu.edu/). 
+During my PhD, I've been an intern at Grammarly, working with [Dimi Alikaniotis](https://scholar.google.gr/citations?user=8ZsPobcAAAAJ&hl=en) and [Yoshi Suhara](https://yoshi-suhara.com/) on LLM-generated text detection with stylometrics, and a Research Scholar at the Summer Camp for Applied Language Exploration (SCALE) at the Johns Hopkins [Human Language Technology Center of Excellence](https://hltcoe.jhu.edu/). 
 
 
 ### Beyond Academics
