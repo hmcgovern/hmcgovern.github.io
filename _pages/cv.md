@@ -10,13 +10,13 @@ redirect_from:
 {% include base_path %}
 
 
-! Information on this page may not be up-to-date. You can see my current CV [here](https://www.canva.com/design/DAGXlIu9WP4/9ZzHRbzJ6fWK5foUnz7URg/view?utm_content=DAGXlIu9WP4&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h07703e10f1).
+! Information on this page may not be perfectly up-to-date, although I try! You can always see my current CV [here](https://www.canva.com/design/DAGXlIu9WP4/9ZzHRbzJ6fWK5foUnz7URg/view?utm_content=DAGXlIu9WP4&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h07703e10f1).
 
 Education
 ======
 * Sc.B. with honors in Engineering Physics, Brown University, 2019
 * MPhil with distinction in Advanced Computer Science, University of Cambridge, 2020
-* Ph.D in Computer Science, University of Cambridge, 2024 (expected)
+* Ph.D in Computer Science, University of Cambridge, 2025 (expected)
 
 Work experience
 ======
@@ -53,13 +53,12 @@ Skills
 ======
 * Python
 * ML Frameworks
-  * Tensorflow
-  * PyTorch
+  * PyTorch/Transformers
   * Sklearn
 * Languages
   * English (native)
   * French (C1)
-  * German (B1)
+  * German (A2)
   * Ancient Greek
   * Ancient Hebrew
 
