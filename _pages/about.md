@@ -18,7 +18,7 @@ During my PhD, I've been an intern at Grammarly, working with [Dimi Alikaniotis]
 
 
 ### Beyond Academics
-I'm only one country away from completing the '30 countries by 30' challenge! I think #30 will be Wales.
+I'm only one country away from completing the '30 countries by 30' challenge! 
 
 I collect folk instruments from places I travel and learn to play at least one song on each. Perhaps my favourite collected item is an [Appalachian  dulcimer](https://www.youtube.com/watch?v=rZWZ7KpB5Zg) from North Carolina.
 
